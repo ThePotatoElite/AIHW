@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3cf42747c0617b5428ee2cb024931320
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - backgroundMusic: {fileID: 8300000, guid: 8684f6d4eb150654fa659dca4a6857e6, type: 3}
+  - thunder: {fileID: 8300000, guid: 574f196e987920347862a103fb1fff26, type: 3}
+  - deathScream: {fileID: 8300000, guid: 78194fa74debcd6409192ecc871ce5f4, type: 3}
+  - vampireHiss: {fileID: 8300000, guid: d5d894d21e782ab4788ba77c983734fe, type: 3}
+  - swordHit: {fileID: 8300000, guid: 29e8276f92e329243a3b96932034cbab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

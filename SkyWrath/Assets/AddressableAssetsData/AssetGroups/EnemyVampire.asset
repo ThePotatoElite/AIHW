@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EnemyVampire
+  m_EditorClassIdentifier: 
+  m_GroupName: EnemyVampire
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db98a3713573e0f4bae361f3352e0529
+  m_SerializeEntries:
+  - m_GUID: c57068eb1752ca24bb42b394e8dd05b9
+    m_Address: Assets/Prefabs/Enemies/Enemy_Vampire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Vampire
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c7d569787e6574a45a9a32e216d63481, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1e0c580fbf789f9429da4a69435b0f82, type: 2}
+    - {fileID: 11400000, guid: 7cf1c60c5bbc67b4999ea5693dfd7834, type: 2}
